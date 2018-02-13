@@ -1,0 +1,25 @@
+body {
+  background: url(https://wallscover.com/images/surfing-6.jpg) no-repeat;
+  background-size: cover;
+  color: black;
+}
+
+h1 {
+  font-family: 'BioRhyme', serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'BioRhyme', serif;
+  text-align: center;
+}
+
+p{
+  font-family: 'Raleway', serif;
+  text-align:center;
+}
+
+img {
+  size: 200px;
+  float: left;
+}
